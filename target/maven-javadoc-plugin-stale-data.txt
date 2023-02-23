@@ -1,0 +1,53 @@
+@options
+@argfile
+-encoding
+'UTF-8'
+-protected
+-source
+'8'
+-sourcepath
+'D:/natha/Documents/GitHub/TP1/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2023. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'D:/natha/Documents/GitHub/TP1/target/site/apidocs'
+-docencoding
+'UTF-8'
+-Xdoclint:none
+-doctitle
+'tp_qualite 1.0 API'
+-linkoffline
+'https://docs.oracle.com/javase/8/docs/api' 'D:/natha/Documents/GitHub/TP1/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'tp_qualite 1.0 API'
+'D:/natha/Documents/GitHub/TP1/src/main/java/Main.java'
+'D:/natha/Documents/GitHub/TP1/src/main/java/Pile.java'
+D:\natha\Documents\GitHub\TP1\src\main\java\Main.java = 1677149351726
+D:\natha\Documents\GitHub\TP1\src\main\java\Pile.java = 1677150132760
+D:\natha\Documents\GitHub\TP1\src\main\java = 1677148697142
+D:\natha\Documents\GitHub\TP1\target\site\apidocs\allclasses-index.html = 1677150167030
+D:\natha\Documents\GitHub\TP1\target\site\apidocs\allpackages-index.html = 1677150167034
+D:\natha\Documents\GitHub\TP1\target\site\apidocs\element-list = 1677150166887
+D:\natha\Documents\GitHub\TP1\target\site\apidocs\help-doc.html = 1677150167103
+D:\natha\Documents\GitHub\TP1\target\site\apidocs\index-all.html = 1677150167091
+D:\natha\Documents\GitHub\TP1\target\site\apidocs\index.html = 1677150167095
+D:\natha\Documents\GitHub\TP1\target\site\apidocs\jquery-ui.overrides.css = 1677150167262
+D:\natha\Documents\GitHub\TP1\target\site\apidocs\Main.html = 1677150166849
+D:\natha\Documents\GitHub\TP1\target\site\apidocs\member-search-index.js = 1677150167072
+D:\natha\Documents\GitHub\TP1\target\site\apidocs\module-search-index.js = 1677150167038
+D:\natha\Documents\GitHub\TP1\target\site\apidocs\overview-tree.html = 1677150166983
+D:\natha\Documents\GitHub\TP1\target\site\apidocs\package-search-index.js = 1677150167041
+D:\natha\Documents\GitHub\TP1\target\site\apidocs\package-summary.html = 1677150166931
+D:\natha\Documents\GitHub\TP1\target\site\apidocs\package-tree.html = 1677150166939
+D:\natha\Documents\GitHub\TP1\target\site\apidocs\package-use.html = 1677150166977
+D:\natha\Documents\GitHub\TP1\target\site\apidocs\Pile.html = 1677150166882
+D:\natha\Documents\GitHub\TP1\target\site\apidocs\script.js = 1677150167134
+D:\natha\Documents\GitHub\TP1\target\site\apidocs\search.js = 1677150167138
+D:\natha\Documents\GitHub\TP1\target\site\apidocs\stylesheet.css = 1677150167131
+D:\natha\Documents\GitHub\TP1\target\site\apidocs\tag-search-index.js = 1677150167074
+D:\natha\Documents\GitHub\TP1\target\site\apidocs\type-search-index.js = 1677150167071
